@@ -49,7 +49,7 @@ Graphical representation of trends
 Reduced inventory cost insights
 
 
-🔮 Future Improvements
+ Future Improvements
 Deep Learning models (LSTM, RNN)
 Real-time forecasting dashboard
 Integration with supply chain systems
