@@ -7,11 +7,11 @@ The model analyzes historical sales data and forecasts future demand using time-
 
 
 🚀 Features
-📊 Demand Forecasting using ML models
-📉 Time-series analysis of inventory data
-🔍 Data preprocessing and visualization
-🤖 Multiple model comparison (Linear Regression, ARIMA, etc.)
-📦 Inventory optimization insights 
+1 Demand Forecasting using ML models
+2 Time-series analysis of inventory data
+3 Data preprocessing and visualization
+4 Multiple model comparison (Linear Regression, ARIMA, etc.)
+5 Inventory optimization insights 
 
 🛠️ Tech Stack
 Programming Language: Python
@@ -33,7 +33,7 @@ Inventory Levels
 Demand Trends 
 
 
- 📈 Model Workflow
+  Model Workflow
 Data Collection
 Data Cleaning & Preprocessing
 Exploratory Data Analysis (EDA)
@@ -55,7 +55,7 @@ Real-time forecasting dashboard
 Integration with supply chain systems
 Deployment using Flask/Django
 
-🤝 Contributing
+ Contributing
 Contributions are welcome!
 Feel free to fork this repo and submit a pull request.
 
