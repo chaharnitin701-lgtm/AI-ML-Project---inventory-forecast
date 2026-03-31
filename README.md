@@ -60,7 +60,7 @@ Contributions are welcome!
 Feel free to fork this repo and submit a pull request.
 
  
-👤 Author
+ Author
 Nitin Chahar
 Course: CSE Core
 Project: AI/ML Inventory Forecast
